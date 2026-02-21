@@ -2,6 +2,8 @@
 
 > An intelligent, self-correcting agentic pipeline that generates **Angular + Tailwind CSS** components, validates them against a strict **Design System**, and autonomously fixes validation failures — all powered by **Groq** and **LLaMA 3.3-70B**.
 
+**Live Demo:** [https://guided-component-architect-agentic.vercel.app/](https://guided-component-architect-agentic.vercel.app/)
+
 ---
 
 ## Table of Contents
