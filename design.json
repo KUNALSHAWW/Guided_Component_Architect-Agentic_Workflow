@@ -1,0 +1,29 @@
+{
+  "tokens": {
+    "primary-color": "#6366f1",
+    "secondary-color": "#ec4899",
+    "accent-color": "#14b8a6",
+    "background-color": "#0f172a",
+    "surface-color": "#1e293b",
+    "text-color": "#f8fafc",
+    "muted-text-color": "#94a3b8",
+    "border-radius": "8px",
+    "border-radius-lg": "16px",
+    "font": "Inter",
+    "font-mono": "JetBrains Mono",
+    "spacing-unit": "4px",
+    "shadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1)",
+    "transition": "all 0.2s ease-in-out"
+  },
+  "rules": {
+    "require_primary_color": true,
+    "require_secondary_color": true,
+    "require_font": true,
+    "require_border_radius": true
+  },
+  "meta": {
+    "version": "1.0.0",
+    "name": "Pythrust Design System",
+    "description": "Core design tokens for the Guided Component Architect pipeline."
+  }
+}
